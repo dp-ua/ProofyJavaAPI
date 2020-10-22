@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>io.proofy</groupId>
+  <artifactId>proofyApi</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20201022155247</lastUpdated>
+  </versioning>
+</metadata>

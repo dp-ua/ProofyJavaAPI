@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>io.proofy</groupId>
+  <artifactId>proofyApi</artifactId>
+  <version>1.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20201022.155247</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20201022155247</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.0-20201022.155247-1</value>
+        <updated>20201022155247</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0-20201022.155247-1</value>
+        <updated>20201022155247</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
