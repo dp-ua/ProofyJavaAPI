@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>io.proofy</groupId>
-    <artifactId>proofyApi</artifactId>
+    <artifactId>proofyJavaApi</artifactId>
     <version>1.0.1</version>
 
     <properties>
